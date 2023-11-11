@@ -11,6 +11,13 @@
         "source": "**",
         "destination": "/index.html"
       }
-    ]
+    ],
+    "targets": {
+      "default": {
+        "hosting": {
+          "fir-pj-7199d": ["main"]
+        }
+      }
+    }
   }
 }
